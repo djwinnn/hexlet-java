@@ -1,2 +1,2 @@
-in-Class: /io/hexlet/One.class
+Main-Class: io.hexlet.One
 
